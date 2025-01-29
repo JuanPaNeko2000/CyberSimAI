@@ -24,5 +24,5 @@ CyberSimAI/
 │   │── models/
 │── notebooks/
 │── tests/
-│   │── test_simulator.py
+│   │── tes_simulator.py
 │   │── test_detector.py
